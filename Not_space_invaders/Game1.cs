@@ -30,6 +30,7 @@ namespace Not_space_invaders
 
         private bool moveLeft = true;
         private bool moveRight;
+        //Test comment - ignore
 
         public Game1()
         {
